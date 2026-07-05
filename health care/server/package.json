@@ -1,0 +1,22 @@
+{
+  "name": "smart-health-care-server",
+  "version": "1.0.0",
+  "description": "Backend API for Smart Health Care",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "healthcare",
+    "express",
+    "mysql",
+    "node"
+  ],
+  "author": "Sai Kumar",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "mysql2": "^3.14.1"
+  }
+}
