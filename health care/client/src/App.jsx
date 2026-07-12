@@ -6,7 +6,7 @@ import "./index.css";
 // API URL
 // ===============================
 
-const API_URL = "http://10.148.198.152:5000/api/diseases";
+const API_URL = "http://localhost:5000/api/diseases";
 
 function App() {
 
